@@ -1,5 +1,7 @@
 # Tapper
 
+[![Travis CI](https://travis-ci.org/ryoppy/tapper.svg?branch=master)](https://travis-ci.org/ryoppy/tapper)
+
 Tapper is tap method utils of Scala.
 
 ## Example1
